@@ -1,1 +1,1 @@
-mysql -h hostname -u username -p kosong database
+mysql --host=localhost --user=myname --password=password mydb
